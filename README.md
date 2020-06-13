@@ -1,2 +1,3 @@
-# Spring-Tutorial
-Tutorials on Spring Framework
+# Spring & Hibernate for Beginners
+This is a course followed on udemy online leqrning platform
+
